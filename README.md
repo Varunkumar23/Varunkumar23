@@ -112,30 +112,4 @@
 </p>
 
 <br>
-
-
-## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width="50px"> </picture> Github Stats
-
-<details><summary><h3> 🔥 Streak Stats</h3></summary>
-
-----	
-
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=olapuajay&theme=tokyonight_duo" alt="olapuajay" /></p>
-
-</details>
-  
-<details><summary><h3>🤖 GitHub Profile Stats</h3></summary>
-
-----
-	
-<p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-	    <img alt="olapuajay's Github Stats" src="https://github-readme-stats.vercel.app/api?username=olapuajay&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=olapuajay&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="olapuajay" height="230px"/>
-<br/>
-
-  </p>
-</details>
-
-
 </br></br>
