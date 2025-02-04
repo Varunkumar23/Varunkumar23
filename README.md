@@ -21,7 +21,7 @@
 ### 🔗 Connect with Me
 <p align="left">
   <a href="https://linkedin.com/in/varun-kumar-2004y" target="blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://www.leetcode.com/svarun09" target="blank"><img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+  <a href="https://www.leetcode.com/Svarun18" target="blank"><img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
 </p>
 
 ---
@@ -59,19 +59,6 @@
 - 🏥 **Disease Prediction System** - Predicting diseases using ML algorithms
 - 📈 **Stock Price Prediction using LSTMs** - Time series forecasting for stock markets
 - 🔍 **Sentiment Analysis on Product Reviews** - NLP-based sentiment classification
-
----
-
-### 📊 GitHub Stats
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=varunkumar23&show_icons=true&theme=radical" alt="varunkumar23" />
-</p>
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=varunkumar23&theme=radical" alt="varunkumar23" />
-</p>
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=varunkumar23&layout=compact&theme=radical" alt="varunkumar23" />
-</p>
 
 ---
 
