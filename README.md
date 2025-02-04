@@ -1,28 +1,79 @@
 <h1 align="center">Hi 👋, I'm Sarabu Varun Kumar</h1>
-<h3 align="center">🔍 Turning Data into Insights | 🧠 Empowering Decisions as a Data Scientist | 🛠️ Building Intelligent Solutions with Python, R & SQL | 🚀 Mastering DSA for Scalable Solutions | 📊 Creating Impactful Visualizations with Tableau & Power BI</h3>
+<h3 align="center">🔍 Data Scientist | 📊 Data Analyst | 🧠 Machine Learning Enthusiast | 🚀 Solving Real-World Problems with Data</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=varunkumar23&label=Profile%20views&color=0e75b6&style=flat" alt="varunkumar23" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=varunkumar23" alt="varunkumar23" /></a> </p>
-
-- 🌱 I’m currently learning **DSA using Java & Machine Learning**
-
-- 💬 Ask me about **📈 Data Analysis and Visualization**
-
-- 📫 How to reach me **sarabuvarunkumar@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/varun-kumar-2004y" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="varun-kumar-2004y" height="30" width="40" /></a>
-<a href="https://instagram.com/varxnn__09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="varxnn__09" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/svarun09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="svarun09" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=varunkumar23&label=Profile%20views&color=0e75b6&style=flat" alt="varunkumar23" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=varunkumar23&show_icons=true&locale=en&layout=compact" alt="varunkumar23" /></p>
+### 🏆 About Me
+- 🎓 **B.Tech Student** with a strong passion for **Data Science & AI**  
+- 🌱 Currently enhancing skills in **Machine Learning, Deep Learning & Big Data Analytics**  
+- 💡 Interested in **Statistical Modeling, Predictive Analytics & Business Intelligence**  
+- 💬 Ask me about **Data Science, SQL, Python, and Data Visualization**  
+- 📊 Experienced in **Exploratory Data Analysis (EDA), Feature Engineering, and Model Building**  
+- 🎯 Strong foundation in **Data Structures & Algorithms using Java**  
+- 📩 Reach me at **sarabuvarunkumar@gmail.com**  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=varunkumar23&show_icons=true&locale=en" alt="varunkumar23" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=varunkumar23&" alt="varunkumar23" /></p>
+### 🔗 Connect with Me
+<p align="left">
+  <a href="https://linkedin.com/in/varun-kumar-2004y" target="blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.leetcode.com/svarun09" target="blank"><img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+</p>
+
+---
+
+### 🛠️ Skills & Tools
+#### 📌 Programming & Scripting
+- Python | R | SQL | Java | C++  
+
+#### 📊 Data Science & Analytics
+- Data Cleaning & Preprocessing
+- Exploratory Data Analysis (EDA)
+- Feature Engineering & Selection
+- Predictive Modeling (Regression & Classification)
+- Time Series Analysis
+- Big Data Processing
+- Business Intelligence (BI)
+
+#### 📈 Machine Learning & AI
+- Supervised & Unsupervised Learning
+- Deep Learning (TensorFlow, Keras, PyTorch)
+- Natural Language Processing (NLP)
+- Computer Vision
+- Model Deployment (Flask, FastAPI, Streamlit)
+
+#### 📊 Data Visualization
+- Tableau | Power BI | Matplotlib | Seaborn | Plotly  
+
+#### ⚡ Tools & Frameworks
+- Git & GitHub | Docker | Kubernetes | AWS | Linux | Bash
+
+---
+
+### 📌 Featured Projects
+- 📊 **Customer Segmentation using K-Means** - Clustering customers based on spending behavior
+- 🏥 **Disease Prediction System** - Predicting diseases using ML algorithms
+- 📈 **Stock Price Prediction using LSTMs** - Time series forecasting for stock markets
+- 🔍 **Sentiment Analysis on Product Reviews** - NLP-based sentiment classification
+
+---
+
+### 📊 GitHub Stats
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=varunkumar23&show_icons=true&theme=radical" alt="varunkumar23" />
+</p>
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=varunkumar23&theme=radical" alt="varunkumar23" />
+</p>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=varunkumar23&layout=compact&theme=radical" alt="varunkumar23" />
+</p>
+
+---
+
+### 🚀 Let's Connect & Collaborate!
+💡 Open to discussions on **Data Science, AI, and Open Source Contributions**. Feel free to reach out! 🚀
