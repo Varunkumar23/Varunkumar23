@@ -101,10 +101,11 @@ while exploring event-driven systems with Kafka and RabbitMQ.
 - Render
 
 ---
+
 # 🚀 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,react,nodejs,express,mongodb,mysql,docker,aws,git,kafka,rabbitmq&perline=7" />
+<img src="https://skillicons.dev/icons?i=java,spring,python,react,nodejs,mongodb,mysql,docker,aws,git,linux,kafka,rabbitmq,maven&perline=7" />
 </p>
 
 # 📊 GitHub Stats
