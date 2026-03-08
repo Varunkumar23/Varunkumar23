@@ -17,15 +17,12 @@ Passionate about turning data into insights and building scalable backend system
 
 💡 Interested in building **intelligent systems and scalable backend applications**
 
-🌱 Currently learning **Java Full Stack Development**
+🌱 Currently learning **Java Full Stack Development** and **modern backend architecture**
 
-⚙️ Working with technologies such as:
 
-- Spring Boot  
-- JDBC  
-- Hibernate  
-- JPA  
-- JUnit  
+⚙️ Currently building backend applications using  
+Core Java, Spring Boot, Hibernate, JPA, and REST APIs,  
+while exploring event-driven systems with Kafka and RabbitMQ.
 
 📊 Experienced in **Data Analysis, Machine Learning, and Exploratory Data Analysis**
 
@@ -58,27 +55,28 @@ Passionate about turning data into insights and building scalable backend system
 - R
 - C++
 
-## Data Science & Analytics
-- Data Cleaning & Preprocessing
+## Data Science & Machine Learning
 - Exploratory Data Analysis (EDA)
 - Feature Engineering
 - Predictive Modeling
-- Statistical Analysis
-
-## Machine Learning
 - Regression & Classification
 - Clustering
 - Model Evaluation
-- Basic Deep Learning
 
 ## Backend Development
-- Java
 - Spring Boot
 - JDBC
 - Hibernate
 - JPA
-- REST APIs
+- REST API Development
+- Spring Security
 - JUnit
+- Kafka
+- RabbitMQ
+
+## Databases
+- MySQL
+- MongoDB
 
 ## Data Visualization
 - Tableau
@@ -86,12 +84,28 @@ Passionate about turning data into insights and building scalable backend system
 - Matplotlib
 - Seaborn
 
+## Big Data
+- Hadoop
+
 ## Tools
 - Git & GitHub
-- Linux
-- Docker (basic)
+- Postman
+- MySQL Workbench
+- Docker
+- AWS EC2 (Basic)
+- Maven
+- VS Code
+
+## Deployment
+- Vercel
+- Render
 
 ---
+# 🚀 Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,spring,react,nodejs,express,mongodb,mysql,docker,aws,git,kafka,rabbitmq&perline=7" />
+</p>
 
 # 📊 GitHub Stats
 
